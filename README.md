@@ -5,6 +5,6 @@
 - Лабораторная 1. **Сигналы** ([ссылка](https://github.com/ZorkinaAn/dsp_labs/blob/main/lab1.ipynb))
 - Лабораторная 2. **Анализ сигналов** ([ссылка](https://github.com/ZorkinaAn/dsp_labs/blob/main/lab2.ipynb))
 - Лабораторная 3. **Фильтры** ([ссылка](https://github.com/ZorkinaAn/dsp_labs/blob/main/lab3.ipynb))
-- Лабораторная 3. **Акустические характеристики** ([ссылка](https://github.com/ZorkinaAn/dsp_labs/blob/main/lab4.ipynb))
+- Лабораторная 4. **Акустические характеристики** ([ссылка](https://github.com/ZorkinaAn/dsp_labs/blob/main/lab4.ipynb))
 
 Все данные, необходимые для выполнения лабораторных работ содержатся в папке [resources](https://github.com/ZorkinaAn/dsp_labs/blob/main/resources)
